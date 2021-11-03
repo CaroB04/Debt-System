@@ -1,0 +1,45 @@
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.deps.json
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.AssemblyReference.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfoInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfo.cs
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CoreCompileInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CopyComplete
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\BuildingMyFirstAPIOnion\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.deps.json
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.AssemblyReference.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfoInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfo.cs
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CoreCompileInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CopyComplete
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.deps.json
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Models.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\bin\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.Core.pdb
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.AssemblyReference.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfoInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.AssemblyInfo.cs
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CoreCompileInputs.cache
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.csproj.CopyComplete
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.dll
+C:\Users\CAROLYN\Desktop\Main Folder\Solvex Courses\Debt System\BackEnd\BuildingMyFirstAPIOnion.BL\obj\Debug\netcoreapp3.1\BuildingMyFirstAPIOnion.BL.pdb
